@@ -10,7 +10,7 @@ import io.reactivex.functions.Action
 import io.reactivex.functions.Consumer
 import org.reactivestreams.Subscription
 
-class MainActivity : AppCompatActivity() {
+class DemoActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
