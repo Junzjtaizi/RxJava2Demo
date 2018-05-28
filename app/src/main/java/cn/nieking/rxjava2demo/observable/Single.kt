@@ -1,4 +1,4 @@
-package cn.nieking.rxjava2demo.Observable
+package cn.nieking.rxjava2demo.observable
 
 import io.reactivex.Single
 import io.reactivex.SingleEmitter
